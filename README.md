@@ -12,27 +12,27 @@ You have to use the data from July 2015 to June 2016. The data consists of the f
 
 #### Order level data
 
-FSN ID: The unique identification of each SKU 
+  FSN ID: The unique identification of each SKU 
 
-Order Date: Date on which the order was placed
+  Order Date: Date on which the order was placed
 
-Order ID: The unique identification number of each order
+  Order ID: The unique identification number of each order
 
-Order item ID: Suppose you order 2 different products under the same order, it generates 2 different order Item IDs under the same order ID; orders are tracked by the Order Item ID.
+  Order item ID: Suppose you order 2 different products under the same order, it generates 2 different order Item IDs under the same order ID; orders are tracked by the Order     Item ID.
 
-GMV: Gross Merchandise Value or Revenue
+  GMV: Gross Merchandise Value or Revenue
 
-Units: Number of units of the specific product sold
+  Units: Number of units of the specific product sold
 
-Order payment type: How the order was paid – prepaid or cash on delivery
+  Order payment type: How the order was paid – prepaid or cash on delivery
 
-SLA: Number of days it typically takes to deliver the product
+  SLA: Number of days it typically takes to deliver the product
 
-Cust id: Unique identification of a customer
+  Cust id: Unique identification of a customer
 
-Product MRP: Maximum retail price of the product
-
-Product procurement SLA: Time typically taken to procure the product
+  Product MRP: Maximum retail price of the product
+  
+  Product procurement SLA: Time typically taken to procure the product
 
 #### Apart from this, the following information is also available:
 
