@@ -12,7 +12,7 @@ You have to use the data from July 2015 to June 2016. The data consists of the f
 
 #### Order level data
 
-FSN ID: The unique identification of each SKU \n
+FSN ID: The unique identification of each SKU 
 Order Date: Date on which the order was placed
 Order ID: The unique identification number of each order
 Order item ID: Suppose you order 2 different products under the same order, it generates 2 different order Item IDs under the same order ID; orders are tracked by the Order Item ID.
